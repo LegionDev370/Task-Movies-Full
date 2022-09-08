@@ -101,6 +101,7 @@ form {
   }
   .create-films {
     flex-direction: column;
+    row-gap: 15px;
   }
   .wrapper-container {
     justify-content: center;
